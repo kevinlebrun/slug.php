@@ -125,7 +125,9 @@ class Slugifier
         $string = preg_replace('/(' . preg_quote($this->delimiter, '/') . '){2,}/', '$1', $string);
 
         // Truncate slug to max. characters
-        $string = mb_substr($string, 0, ($this->limit ? $this->limit : mb_strlen($string, 'UTF-8')), 'UTF-8');
+        if ($this->limit) {
+            $string = mb_substr($string, 0, $this->limit, 'UTF-8');
+        }
 
         // Remove delimiter from ends
         $string = trim($string, $this->delimiter);
