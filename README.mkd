@@ -22,6 +22,10 @@ Installation via composer is highly recommended.
     $ bin/phpunit
     $ bin/phpcs --standard=phpcs.xml -p .
 
+## Contributors
+
+* Andre Cardoso <andrecardosodev@gmail.com>
+
 ## License
 
 (The MIT License)
