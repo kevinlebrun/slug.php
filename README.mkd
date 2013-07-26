@@ -1,4 +1,10 @@
-# Slug [![Build Status](https://secure.travis-ci.org/kevinlebrun/slug.php.png)](http://travis-ci.org/kevinlebrun/slug.php?branch=master)
+# Slug
+
+[![Build Status](https://secure.travis-ci.org/kevinlebrun/slug.php.png)](http://travis-ci.org/kevinlebrun/slug.php?branch=master)
+[![Coverage Status](https://coveralls.io/repos/kevinlebrun/slug.php/badge.png)](https://coveralls.io/r/kevinlebrun/slug.php)
+
+[![Latest Stable Version](https://poser.pugx.org/kevinlebrun/slug.php/v/stable.png)](https://packagist.org/packages/kevinlebrun/slug.php)
+[![Total Downloads](https://poser.pugx.org/kevinlebrun/slug.php/downloads.png)](https://packagist.org/packages/kevinlebrun/slug.php)
 
 ## Installation
 
