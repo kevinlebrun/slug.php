@@ -1,0 +1,9 @@
+## 1.0.1 (July 26, 2013)
+
+IMPROVEMENTS:
+
+ - Added some badges to the README page.
+ - Renamed `lib` directory to `src`.
+ - Added transliterate exemple for accentued words like in Brazil. #4
+
+## 1.0.0 (June 28, 2013)
